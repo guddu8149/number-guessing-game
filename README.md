@@ -1,0 +1,1 @@
+This repository contains a simple number guessing game implemented in Java. The program generates a random number between 0 and 99, and the user has to guess the number within 5 attempts. It utilizes basic input/output operations and loops for gameplay. Feel free to explore the code, contribute improvements, or use it as a learning resource.
